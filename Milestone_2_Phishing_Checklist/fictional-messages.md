@@ -1,0 +1,1 @@
+Fictional examples, not real links: 1. A message demands urgent payment to a mismatched bank account. 2. A purported college message asks for a password at college-login.example.invalid. 3. A surprise attachment claims to be an invoice you did not expect. Identify warning signs and verify through a known channel; appearances alone do not establish who sent a message.

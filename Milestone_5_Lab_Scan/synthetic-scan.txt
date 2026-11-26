@@ -1,0 +1,7 @@
+SYNTHETIC teaching fixture; no scan was executed.
+Target: loopback-only practice example 127.0.0.1
+PORT     STATE  SERVICE (illustrative label only)
+22/tcp   closed ssh
+80/tcp   closed http
+8765/tcp open   training-http
+A service label is an observation, not proof of an exact version or vulnerability.
